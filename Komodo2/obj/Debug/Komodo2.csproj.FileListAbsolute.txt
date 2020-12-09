@@ -1,0 +1,7 @@
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo2\obj\Debug\Komodo2.csprojAssemblyReference.cache
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo2\obj\Debug\Komodo2.csproj.CoreCompileInputs.cache
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo2\bin\Debug\Komodo2.exe.config
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo2\bin\Debug\Komodo2.exe
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo2\bin\Debug\Komodo2.pdb
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo2\obj\Debug\Komodo2.exe
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo2\obj\Debug\Komodo2.pdb

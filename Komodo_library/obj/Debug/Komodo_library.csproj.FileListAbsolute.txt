@@ -1,0 +1,6 @@
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo_library\bin\Debug\Komodo_library.dll
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo_library\bin\Debug\Komodo_library.pdb
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo_library\obj\Debug\Komodo_library.csprojAssemblyReference.cache
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo_library\obj\Debug\Komodo_library.csproj.CoreCompileInputs.cache
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo_library\obj\Debug\Komodo_library.dll
+C:\Users\codya\Desktop\ElevenFiftyProjects\Komodo 2\Komodo2\Komodo_library\obj\Debug\Komodo_library.pdb
